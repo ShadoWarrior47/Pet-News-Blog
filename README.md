@@ -1,1 +1,1 @@
-A  Pet News Blog Application using React, Nodejs which fetches data from NewsCatcher API.
+A  Pet News Blog Application using React, Nodejs which fetches data from NewsCatcher API for capstone project.
